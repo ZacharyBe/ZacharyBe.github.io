@@ -3,7 +3,7 @@ html {
   font-family: 'Mono', sans-serif;
   color:#d3d3d3;
 }
-.header {
+#topbutton {
   background-color: gray;
   display: inline-flex;
   border: 1px solid white;
