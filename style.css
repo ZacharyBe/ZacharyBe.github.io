@@ -1,8 +1,12 @@
 html {
   font-size: 16px;
   font-family: 'Mono', sans-serif;
+  color:#d3d3d3;
 }
 .header {
   background-color: gray;
   display: inline;
+  border: 1px solid white;
+  border-radius: 1px;
+  color: #7f7f7f;
 }
