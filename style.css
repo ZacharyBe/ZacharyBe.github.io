@@ -5,7 +5,7 @@ html {
 }
 .header {
   background-color: gray;
-  display: inline;
+  display: inline-flex;
   border: 1px solid white;
   border-radius: 1px;
   color: #7f7f7f;
