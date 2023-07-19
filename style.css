@@ -1,7 +1,7 @@
 html {
   font-size: 16px;
   font-family: 'Mono', sans-serif;
-  color:#d3d3d3;
+  background-color: #d3d3d3;
 }
 @font-face {
   font-family: 'CustomFontName';
