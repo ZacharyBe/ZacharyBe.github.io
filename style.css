@@ -14,7 +14,8 @@ ehtml {
   border-radius: 1px;
   background-color: #7f7f7f;
   color: #FAFAFA;
-  justify-content: space-between;
+  justify-content: space-between;\
+  align-items: flex-start;
   padding: 10px;
 }
 .maintext {
