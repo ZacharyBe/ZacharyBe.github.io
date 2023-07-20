@@ -16,7 +16,7 @@ html {
   color: #FAFAFA;
   justify-content: space-between;\
   align-items: flex-start;
-  padding: 25px;
+  padding: 15px;
 }
 a:hover {
   cursor: pointer;
@@ -30,6 +30,5 @@ a:hover {
   justify-content: center;
   height: 300px;
   width: 450px;
-  padding: 40px;
   border: 1px solid white;
 }
