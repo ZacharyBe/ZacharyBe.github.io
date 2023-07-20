@@ -12,12 +12,12 @@ body {
 }
 #topbutton {
   background-color: gray;
-  display: inline-flex;
+  display: inline;
   border: 1px solid white;
   border-radius: 1px;
   background-color: #7f7f7f;
   color: #FAFAFA;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 10px;
 }
 .maintext {
