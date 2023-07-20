@@ -22,3 +22,10 @@ ehtml {
   color: #FAFAFA;
   border: 1px solid white;
 }
+.cat {
+  justify-content: center;
+  height: 300px;
+  width: 450px;
+  padding: 40px;
+  border: 1px solid white;
+}
