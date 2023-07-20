@@ -18,8 +18,9 @@ html {
   align-items: flex-start;
   padding: 10px;
 }
-#topbutton:hover {
+a:hover {
   cursor: pointer;
+  text-decoration: underline;
 }
 .maintext {
   color: #FAFAFA;
