@@ -18,6 +18,9 @@ ehtml {
   align-items: flex-start;
   padding: 10px;
 }
+#topbutton:hover {
+  cursor: pointer;
+}
 .maintext {
   color: #FAFAFA;
   border: 1px solid white;
