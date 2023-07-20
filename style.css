@@ -8,7 +8,9 @@ html {
   src: url('') format('truetype');
 }
 .header {
-  position: left;
+  position: relative;
+  left: 15px;
+  margin-right: 10px;
 }
 #topbutton {
   background-color: gray;
