@@ -25,6 +25,7 @@ html {
 a:hover {
   cursor: pointer;
   text-decoration: underline;
+  color: white;
 }
 .maintext {
   color: #FAFAFA;
