@@ -16,7 +16,7 @@ html {
   color: #FAFAFA;
   justify-content: space-between;\
   align-items: flex-start;
-  padding: 10px;
+  padding: 25px;
 }
 a:hover {
   cursor: pointer;
