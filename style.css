@@ -7,9 +7,6 @@ ehtml {
   font-family: 'CustomFontName';
   src: url('') format('truetype');
 }
-body {
-  font-family: "", sans-serif;
-}
 #topbutton {
   background-color: gray;
   display: inline;
