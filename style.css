@@ -34,9 +34,14 @@ a:hover {
   color: #FAFAFA;
   border: 1px solid white;
 }
+.container {
+  overflow: hidden;
+}
 .cat {
   justify-content: center;
   height: 300px;
-  width: 450px;
   border: 1px solid white;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
