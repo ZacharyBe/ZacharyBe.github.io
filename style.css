@@ -7,6 +7,9 @@ html {
   font-family: 'CustomFontName';
   src: url('') format('truetype');
 }
+main {
+ width: 100%;
+}
 .header {
   position: relative;
   background-color: #7f7f7f;
