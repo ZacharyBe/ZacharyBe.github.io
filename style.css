@@ -32,10 +32,11 @@ a:hover {
   text-decoration: underline;
   color: white;
 }
-.maintext {
+.maintext h1{
   color: #FAFAFA;
+  font-size: 1.5rem;
 }
-.container {
+.container { 
   overflow: hidden;
 }
 .cat {
