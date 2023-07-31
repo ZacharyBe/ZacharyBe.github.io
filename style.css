@@ -10,13 +10,17 @@ html {
 main {
  width: 100%;
 }
-.bar {
+header.bar {
   position: relative;
   background-color: #7f7f7f;
   border: 1px solid white;
   border-radius: 1px;
   width: 100%;
   height: auto;
+}
+header.bar nav {
+    display: flex;
+    justify-content: center;
 }
 .topbutton {
   top: 50px;
