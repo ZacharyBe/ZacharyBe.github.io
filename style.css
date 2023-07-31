@@ -41,6 +41,7 @@ a:hover {
   overflow: hidden;
 }
 .cat {
+  background-size: cover;
   justify-content: center;
   height: 300px;
   border: 1px solid white;
