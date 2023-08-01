@@ -11,7 +11,7 @@ main {
  width: 100%;
 }
 
-header.bar {
+ul.heading {
   position: relative;
   background-color: #7f7f7f;
   border: 1px solid white;
