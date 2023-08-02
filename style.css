@@ -26,7 +26,7 @@ header.bar nav {
     display: flex;
     justify-content: center;
 }
-.topbutton {
+.topbutton a{
   top: 50px;
   display: inline;
   color: #FAFAFA;
