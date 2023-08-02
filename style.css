@@ -24,7 +24,6 @@ ul.heading {
 header.bar nav {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 .topbutton a{
   top: 50px;
