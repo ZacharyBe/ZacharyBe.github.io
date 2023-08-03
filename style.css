@@ -21,10 +21,6 @@ ul.heading {
   height: 30px;
   bottom: 17px;
 }
-header.bar nav {
-    display: flex;
-    justify-content: center;
-}
 .topbutton a{
   top: 50px;
   display: inline;
